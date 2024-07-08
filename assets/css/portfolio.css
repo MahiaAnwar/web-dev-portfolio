@@ -100,6 +100,16 @@ nav li a{
     color: #757575;
     font-size: 18px;
 }
+.btn-contact{
+    color: #FD6E0A;
+    background-color: #FFF8F3;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 18px 35px;
+    border-radius: 5px;
+    font-size: 20px;
+    border: 2px solid #FD6E0A;
+}
 .bannerProfilePic{
     width: 584px;
 }
